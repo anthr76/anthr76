@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on GitOps and Infrastructure as Code
-- 🌱 I’m currently learning Kubernetes in a GitOps model with production quality in mind
-- 👯 I’m looking to collaborate on OpenSUSE Kubic projects or OBS
-- :factory: View my OBS profile [here](https://build.opensuse.org/project/show/home:anthr76)
+- 🌱 I’m currently learning 'policy as code'
+- 👯 I’m looking to collaborate on Talos
+- 💬 Ask me about Kubernetes GitOps!
