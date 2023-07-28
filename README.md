@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on GitOps and Infrastructure as Code
-- 🌱 I’m currently learning 'policy as code'
-- 👯 I’m looking to collaborate on Talos
-- 💬 Ask me about Kubernetes GitOps!
